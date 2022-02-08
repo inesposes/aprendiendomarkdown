@@ -33,6 +33,12 @@ Un [Enlace](http://marca.es)
 2. Segundo elemento
 3. Tercer elemento
 
+Meter codigo 
+``` 
+print("helloworld");
+
+```
+<!-- Comentario-->
 ## Titulo 4
 
 --- 
